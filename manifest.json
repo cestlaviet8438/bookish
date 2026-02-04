@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "bookish",
+	"name": "Bookish",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Convert simple Markdown text write-up into readable, bookish HTML that can you can copy-paste into sites like AO3.",
+	"author": "cestlaviet8438@gmail.com",
+	"authorUrl": "https://github.com/cestlaviet8438",
 	"isDesktopOnly": false
 }
